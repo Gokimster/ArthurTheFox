@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: a61dfab3c99230749ac1f0fbb15bf6d9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_fox_fox_silverFox_x1_jump_png_1354839611_0
+    21300002: npc_fox_fox_silverFox_x1_jump_png_1354839611_1
+    21300004: npc_fox_fox_silverFox_x1_jump_png_1354839611_2
+    21300006: npc_fox_fox_silverFox_x1_jump_png_1354839611_3
+    21300008: npc_fox_fox_silverFox_x1_jump_png_1354839611_4
+    21300010: npc_fox_fox_silverFox_x1_jump_png_1354839611_5
+    21300012: npc_fox_fox_silverFox_x1_jump_png_1354839611_6
+    21300014: npc_fox_fox_silverFox_x1_jump_png_1354839611_7
+    21300016: npc_fox_fox_silverFox_x1_jump_png_1354839611_8
+    21300018: npc_fox_fox_silverFox_x1_jump_png_1354839611_9
+    21300020: npc_fox_fox_silverFox_x1_jump_png_1354839611_10
+    21300022: npc_fox_fox_silverFox_x1_jump_png_1354839611_11
+    21300024: npc_fox_fox_silverFox_x1_jump_png_1354839611_12
+    21300026: npc_fox_fox_silverFox_x1_jump_png_1354839611_13
+    21300028: npc_fox_fox_silverFox_x1_jump_png_1354839611_14
+    21300030: npc_fox_fox_silverFox_x1_jump_png_1354839611_15
+    21300032: npc_fox_fox_silverFox_x1_jump_png_1354839611_16
+    21300034: npc_fox_fox_silverFox_x1_jump_png_1354839611_17
+    21300036: npc_fox_fox_silverFox_x1_jump_png_1354839611_18
+    21300038: npc_fox_fox_silverFox_x1_jump_png_1354839611_19
+    21300040: npc_fox_fox_silverFox_x1_jump_png_1354839611_20
+    21300042: npc_fox_fox_silverFox_x1_jump_png_1354839611_21
+    21300044: npc_fox_fox_silverFox_x1_jump_png_1354839611_22
+    21300046: npc_fox_fox_silverFox_x1_jump_png_1354839611_23
+    21300048: npc_fox_fox_silverFox_x1_jump_png_1354839611_24
+    21300050: npc_fox_fox_silverFox_x1_jump_png_1354839611_25
+    21300052: npc_fox_fox_silverFox_x1_jump_png_1354839611_26
+    21300054: npc_fox_fox_silverFox_x1_jump_png_1354839611_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_0
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 567
+        width: 114
+        height: 50
+      alignment: 9
+      pivot: {x: .665794134, y: .445998549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 568
+        width: 92
+        height: 88
+      alignment: 9
+      pivot: {x: .558696926, y: .269879431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_2
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 588
+        width: 95
+        height: 75
+      alignment: 9
+      pivot: {x: .629305899, y: .406407058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_3
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 602
+        width: 97
+        height: 72
+      alignment: 9
+      pivot: {x: .680913866, y: .475626618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_4
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 612
+        width: 99
+        height: 73
+      alignment: 9
+      pivot: {x: .694985151, y: .475960523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 566
+        width: 118
+        height: 45
+      alignment: 9
+      pivot: {x: .671615183, y: .439998358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 480
+        width: 104
+        height: 70
+      alignment: 9
+      pivot: {x: .677173913, y: .587743282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 489
+        width: 107
+        height: 66
+      alignment: 9
+      pivot: {x: .647605538, y: .513293624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 499
+        width: 109
+        height: 57
+      alignment: 9
+      pivot: {x: .628797352, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_9
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 499
+        width: 110
+        height: 55
+      alignment: 9
+      pivot: {x: .667509854, y: .452139556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_10
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 502
+        width: 111
+        height: 44
+      alignment: 9
+      pivot: {x: .634381831, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_11
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 494
+        width: 111
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 339
+        width: 107
+        height: 58
+      alignment: 9
+      pivot: {x: .623004496, y: .57564044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 316
+        width: 100
+        height: 78
+      alignment: 9
+      pivot: {x: .640389085, y: .533746958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 289
+        width: 87
+        height: 94
+      alignment: 9
+      pivot: {x: .651281595, y: .556006253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_15
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 288
+        width: 98
+        height: 85
+      alignment: 9
+      pivot: {x: .625347555, y: .530968189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_16
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 288
+        width: 107
+        height: 75
+      alignment: 9
+      pivot: {x: .663120747, y: .488918036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_17
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 288
+        width: 118
+        height: 31
+      alignment: 9
+      pivot: {x: .647914588, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 139
+        width: 114
+        height: 39
+      alignment: 9
+      pivot: {x: .653104484, y: .563934326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 142
+        width: 114
+        height: 37
+      alignment: 9
+      pivot: {x: .645813644, y: .567389846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_20
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 147
+        width: 118
+        height: 33
+      alignment: 9
+      pivot: {x: .626783729, y: .575558722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_21
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 149
+        width: 120
+        height: 38
+      alignment: 9
+      pivot: {x: .617744446, y: .543744564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_22
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 149
+        width: 121
+        height: 45
+      alignment: 9
+      pivot: {x: .651116014, y: .536939859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_23
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 149
+        width: 120
+        height: 49
+      alignment: 9
+      pivot: {x: .638522863, y: .483038157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 121
+        height: 48
+      alignment: 9
+      pivot: {x: .60990262, y: .50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 10
+        width: 120
+        height: 47
+      alignment: 9
+      pivot: {x: .610818505, y: .482316673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_26
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 10
+        width: 121
+        height: 46
+      alignment: 9
+      pivot: {x: .651116014, y: .427727938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_fox_fox_silverFox_x1_jump_png_1354839611_27
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 10
+        width: 121
+        height: 45
+      alignment: 9
+      pivot: {x: .651116014, y: .500000179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

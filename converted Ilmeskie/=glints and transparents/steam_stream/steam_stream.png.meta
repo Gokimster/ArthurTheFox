@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 64ee7e13da77fb24dbf8744de9e1e409
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: steam_stream_0
+    21300002: steam_stream_1
+    21300004: steam_stream_2
+    21300006: steam_stream_3
+    21300008: steam_stream_4
+    21300010: steam_stream_5
+    21300012: steam_stream_6
+    21300014: steam_stream_7
+    21300016: steam_stream_8
+    21300018: steam_stream_9
+    21300020: steam_stream_10
+    21300022: steam_stream_11
+    21300024: steam_stream_12
+    21300026: steam_stream_13
+    21300028: steam_stream_14
+    21300030: steam_stream_15
+    21300032: steam_stream_16
+    21300034: steam_stream_17
+    21300036: steam_stream_18
+    21300038: steam_stream_19
+    21300040: steam_stream_20
+    21300042: steam_stream_21
+    21300044: steam_stream_22
+    21300046: steam_stream_23
+    21300048: steam_stream_24
+    21300050: steam_stream_25
+    21300052: steam_stream_26
+    21300054: steam_stream_27
+    21300056: steam_stream_28
+    21300058: steam_stream_29
+    21300060: steam_stream_30
+    21300062: steam_stream_31
+    21300064: steam_stream_32
+    21300066: steam_stream_33
+    21300068: steam_stream_34
+    21300070: steam_stream_35
+    21300072: steam_stream_36
+    21300074: steam_stream_37
+    21300076: steam_stream_38
+    21300078: steam_stream_39
+    21300080: steam_stream_40
+    21300082: steam_stream_41
+    21300084: steam_stream_42
+    21300086: steam_stream_43
+    21300088: steam_stream_44
+    21300090: steam_stream_45
+    21300092: steam_stream_46
+    21300094: steam_stream_47
+    21300096: steam_stream_48
+    21300098: steam_stream_49
+    21300100: steam_stream_50
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: steam_stream_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 480
+        width: 37
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 480
+        width: 37
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 38
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 481
+        width: 37
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 480
+        width: 36
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 480
+        width: 36
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 481
+        width: 36
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 481
+        width: 36
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_8
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 481
+        width: 36
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_9
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 481
+        width: 36
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_10
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 481
+        width: 37
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_11
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 481
+        width: 37
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_12
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 482
+        width: 37
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 480
+        width: 35
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_14
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 480
+        width: 35
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_15
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 481
+        width: 35
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_16
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 481
+        width: 35
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_17
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 481
+        width: 36
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 34
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 240
+        width: 34
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 240
+        width: 35
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 241
+        width: 36
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 240
+        width: 34
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 241
+        width: 35
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_24
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 242
+        width: 36
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_25
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 242
+        width: 35
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_26
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 242
+        width: 35
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_27
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 244
+        width: 35
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_28
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 244
+        width: 35
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_29
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 244
+        width: 35
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_30
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 242
+        width: 36
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_31
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 241
+        width: 34
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_32
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 241
+        width: 35
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_33
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 244
+        width: 35
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_34
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 241
+        width: 34
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_35
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 241
+        width: 34
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 33
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3
+        width: 34
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_38
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 4
+        width: 34
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3
+        width: 33
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 4
+        width: 34
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_41
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 4
+        width: 34
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_42
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 6
+        width: 35
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_43
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 6
+        width: 35
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_44
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 7
+        width: 35
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_45
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 4
+        width: 34
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_46
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2
+        width: 32
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_47
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2
+        width: 32
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_48
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 7
+        width: 34
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_49
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 3
+        width: 33
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: steam_stream_50
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 3
+        width: 33
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
